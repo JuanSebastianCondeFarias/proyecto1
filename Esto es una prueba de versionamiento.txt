@@ -1,2 +1,2 @@
 Esto es una prueba de versionamiento, pero con otro usuario pero diferente texto
-Esto es para que lo vea el usuario
+Esto es para que lo vea el usuario, esto es una prueba de la rama con reglas
