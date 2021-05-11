@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Esto es una prueba de versionamiento, desde otro usuario!
+=======
+Esto es una prueba de versionamiento, pero con otro usuario
+>>>>>>> Stashed changes
